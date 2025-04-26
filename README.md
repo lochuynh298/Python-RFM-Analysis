@@ -40,10 +40,11 @@ Summarize key findings and insights/ trends/ themes in a concise, bullet-point
 
 ## 📂 Dataset Description & Data Structure  
 
+
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: Kaggles  
+- Size:  525461 rows × 8 columns
+- Format: xlsx
 
 ### 📊 Data Structure & Relationships  
 
@@ -539,7 +540,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/ff6aa6c7-ab54-4250-8b9b-0b2b8e51b3e8)
 
 
-🔎 Final Conclusion & Recommendations
+## 🔎 Final Conclusion & Recommendations
 
 | Segment     | Number of Customers | Average Recency | Average Frequency | Average Monetary Value (per 100 pounds) | Key Observations                                                                 | Recommendations                                                                                                                                                                                                                                                           |
 |-------------|---------------------|-----------------|-------------------|-----------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
